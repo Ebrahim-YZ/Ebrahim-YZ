@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Full-Stack Development 
 - 🌱 I’m currently learning ...Data science 
 - 💞️ I’m looking to collaborate on ...Full-Stack Development Projects 
-- 📫 How to reach me ...ebrahimyesuf111@gmail.com
+- 📫 How to reach me ebrahimyesuf111@gmail.com
 - 😄 Pronouns: ...Ebu
 - ⚡ Fun fact: ...JavaScript — the king of the coding kingdom
 
