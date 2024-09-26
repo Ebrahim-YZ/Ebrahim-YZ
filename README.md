@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ebrahim Yesuf
-- 👀 I’m interested in ...Full-Stack Web Development 
+- 👋 Hi, My name is Ebrahim Yesuf
+- 👀 I’m interested in Full-Stack Web Development 
 - 🌱 I’m currently learning Computer Science specializing in Data Science
 - 💞️ I’m looking to collaborate on Full-Stack Web Development Projects 
 - 📫 You can reach me at ebrahimyesuf111@gmail.com
